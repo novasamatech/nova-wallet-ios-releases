@@ -23,5 +23,10 @@
          "version": "6.1.1",
          "severity": "Normal",
          "time": "2023-04-25T12:00:00Z"
+     },
+     {
+         "version": "6.1.2",
+         "severity": "Critical",
+         "time": "2023-05-03T12:00:00Z"
      }
  ]
