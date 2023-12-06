@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nova-wallet-android-releases"
+name = "nova-wallet-ios-releases"
 version = "0.1.0"
 description = "This repository contains release notes and versions mapping for in-app updates"
 authors = ["Novasama Technologies <support@novawallet.io>"]

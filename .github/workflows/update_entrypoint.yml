@@ -64,7 +64,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            🚀 New Android release notes have been created, please check them out:
+            🚀 New iOS release notes have been created, please check them out:
 
             PR:
             ${{ needs.create-pr-to-update.outputs.pr-url }}
