@@ -163,5 +163,10 @@
          "version": "7.7.0",
          "severity": "Major",
          "time": "2024-01-23T12:00:00Z"
+     },
+     {
+         "version": "7.7.4",
+         "severity": "Major",
+         "time": "2024-01-31T12:00:00Z"
      }
 ]
