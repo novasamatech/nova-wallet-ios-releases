@@ -19,12 +19,12 @@ def fetch_comment_body_and_save(comment_link, version):
     response = requests.get(comment_link)
     comment_body = json.loads(response.text)["body"]
 
-    # Replace "Release notes:" and "Release time:" lines
+    # Remove redundant lines for body
     lines = comment_body.split("\n")
     lines = [
         line
         for line in lines
-        if not line.startswith(("Release notes:", "Release time:", "Release severity:"))
+        if not line.startswith(("Release notes:", "Release time:", "Release severity:", "Release version:"))
     ]
     comment_body = "\n".join(lines)
 
