@@ -178,5 +178,10 @@
         "version": "7.9.0",
         "severity": "Major",
         "time": "2024-02-19T08:59:03Z"
+    },
+    {
+        "version": "7.9.3",
+        "severity": "Critical",
+        "time": "2024-02-28T12:14:12Z"
     }
 ]
