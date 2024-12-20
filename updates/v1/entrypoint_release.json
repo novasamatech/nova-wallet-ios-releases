@@ -298,5 +298,10 @@
         "version": "9.0.3",
         "severity": "Critical",
         "time": "2024-11-20T10:47:17Z"
+    },
+    {
+        "version": "9.1.0",
+        "severity": "Major",
+        "time": "2024-12-20T09:41:21Z"
     }
 ]
