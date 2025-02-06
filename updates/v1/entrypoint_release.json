@@ -303,5 +303,10 @@
         "version": "9.2.0",
         "severity": "Major",
         "time": "2025-01-17T11:39:36Z"
+    },
+    {
+        "version": "9.3.0",
+        "severity": "Major",
+        "time": "2025-02-06T12:19:46Z"
     }
 ]
