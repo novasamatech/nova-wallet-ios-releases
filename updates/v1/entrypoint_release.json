@@ -418,5 +418,10 @@
         "version": "10.0.7",
         "severity": "Normal",
         "time": "2025-07-28T20:55:31Z"
+    },
+    {
+        "version": "10.1.0",
+        "severity": "Major",
+        "time": "2025-07-31T12:09:01Z"
     }
 ]
