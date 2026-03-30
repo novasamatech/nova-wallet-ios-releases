@@ -553,5 +553,10 @@
         "version": "10.8.1",
         "severity": "Normal",
         "time": "2026-03-13T15:33:45Z"
+    },
+    {
+        "version": "10.8.2",
+        "severity": "Normal",
+        "time": "2026-03-27T11:34:05Z"
     }
 ]
