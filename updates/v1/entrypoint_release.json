@@ -573,5 +573,10 @@
         "version": "10.9.1",
         "severity": "Normal",
         "time": "2026-08-24T11:00:06Z"
+    },
+    {
+        "version": "10.9.2",
+        "severity": "Normal",
+        "time": "2026-09-01T15:09:04Z"
     }
 ]
