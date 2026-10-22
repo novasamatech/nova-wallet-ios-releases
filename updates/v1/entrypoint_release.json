@@ -593,5 +593,10 @@
         "version": "10.10.2",
         "severity": "Critical",
         "time": "2026-09-30T16:03:10Z"
+    },
+    {
+        "version": "11.0.0",
+        "severity": "Major",
+        "time": "2026-10-22T13:41:42Z"
     }
 ]
