@@ -598,5 +598,10 @@
         "version": "11.0.0",
         "severity": "Major",
         "time": "2026-10-22T13:41:42Z"
+    },
+    {
+        "version": "11.0.1",
+        "severity": "Major",
+        "time": "2026-10-25T10:28:03Z"
     }
 ]
